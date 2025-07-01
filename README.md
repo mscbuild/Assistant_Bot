@@ -94,49 +94,5 @@ python bot.py
 
 > MIT License
  
-Built with ❤️ using python-telegram-bot
-
-~~~bash
-
----
-
-### ⚙️ Tech Stack
-
-| Tool/Lib | Purpose |
-|----------|---------|
-| Python 3.10+ | Main programming language |
-| [python-telegram-bot v20+](https://github.com/python-telegram-bot/python-telegram-bot) | Telegram Bot API wrapper |
-| python-dotenv | Manage environment variables |
-| GitHub | Version control and collaboration |
-
----
-
-### ✅ Development Checklist
-
-#### Core Bot Logic
-- [x] `/start` command
-- [x] Inline menu with callback handlers
-- [x] Custom replies for simple keywords
-- [ ] Dynamic report and task generation
-- [ ] State management per user (e.g., track if user asked a question)
-
-#### Code Quality
-- [ ] Error handling
-- [ ] Logging integration
-- [ ] Modular code (split handlers/utils)
-- [ ] Unit tests with `pytest`
-
-#### Deployment
-- [ ] Dockerfile for containerization
-- [ ] Deploy to Heroku / Railway / VPS
-- [ ] Add webhook support
-
----
-~~~
-
- 
-
-  
- 
 
  

@@ -1,6 +1,4 @@
 # 🤖 Assistant Bot
-
-![Image alt](Laravel-cover-image.png)
  ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/e-learning) 
 ![](https://img.shields.io/github/repo-size/mscbuild/Assistant_Bot)

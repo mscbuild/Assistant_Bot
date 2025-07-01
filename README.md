@@ -1,5 +1,16 @@
 # 🤖 Assistant Bot
 
+![Image alt](Laravel-cover-image.png)
+ ![](https://komarev.com/ghpvc/?username=mscbuild) 
+ ![](https://img.shields.io/github/license/mscbuild/e-learning) 
+![](https://img.shields.io/github/repo-size/mscbuild/Assistant_Bot)
+![](https://img.shields.io/badge/PRs-Welcome-green)
+![](https://img.shields.io/badge/code%20style-php-green)
+![](https://img.shields.io/github/stars/mscbuild)
+![](https://img.shields.io/badge/Topic-Github-lighred)
+![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
+
+
 ## 🧠 Project Description
 
 Assistant Bot is a Telegram-based productivity assistant designed to streamline team communication and task tracking. It offers quick access to weekly reports, task lists, and provides an interface for users to ask questions. Built with Python and the `python-telegram-bot` library, this bot simplifies team operations within Telegram, providing a menu-driven interface for intuitive interaction.

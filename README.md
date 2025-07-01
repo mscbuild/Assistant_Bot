@@ -1,6 +1,6 @@
 # 🤖 Assistant Bot
  ![](https://komarev.com/ghpvc/?username=mscbuild) 
- ![](https://img.shields.io/github/license/mscbuild/e-learning) 
+ ![](https://img.shields.io/github/license/mscbuild/Mit) 
 ![](https://img.shields.io/github/repo-size/mscbuild/Assistant_Bot)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
 ![](https://img.shields.io/badge/code%20style-php-green)

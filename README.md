@@ -98,6 +98,17 @@ python bot.py
 
  - ☐ Unit testsStart
 
+   # 📦  What is needed for deployment
+
+| File                        | Purpose                                            |
+| --------------------------- | -------------------------------------------------- |
+| `Dockerfile`                | Building a container for local/cloud running       |
+| `Procfile`                  | To start Heroku worker                             |
+| `.env`                      | Local environment variables                        |
+| `requirements.txt`          | Installing dependencies                            |
+| `bot.py` and other modules  | Bot's main code                                    |
+
+
 # 📄 License
 
 > MIT License
